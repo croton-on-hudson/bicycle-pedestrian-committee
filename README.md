@@ -3,11 +3,11 @@ We serve as advisors to the village on matters of interest to bicyclists and ped
 
 ## Project board
 We track the progress of issues and ideas discussed by the committee and the village using a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-style board.
-- View [the current status of the project board](https://github.com/bloombar/bicycle-pedestrian-committee/projects/1)
+- View [the current status of the project board](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/1?card_filter_query=is%3Aopen)
 
 ## Research
 Research and strategies for improving safety for bicyclists and pedestrians in general, not necessarily specifically related to our village, are collaboratively developed into a wiki.
-- View [the research wiki](https://github.com/bloombar/bicycle-pedestrian-committee/wiki)
+- View [the research wiki](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/wiki)
 
 ## Meetings
 The committee meets on the third Tuesday of each month.
