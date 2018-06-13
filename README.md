@@ -1,4 +1,4 @@
-# Village of Croton-on-Hudson's Bicycle & Pedestrian Committee
+# Village of Croton-on-Hudson Bicycle & Pedestrian Committee
 We serve as advisors to the village on matters of interest to bicyclists and pedestrians.
 
 ## Project board
