@@ -17,11 +17,13 @@ The committee meets on the third Tuesday of each month.
 - Eliza McCarthy (Chair)
 - Amos Bloomberg
 - Daniel Castner
+- Joshua Diamond
 - Brett Dion
-- Andrew Gould
+- Ariadne Green
 - Robert Olsson
 - Deborah Ramsey
-- Jeremy Sonnenburg
+- Klaus Schreiber
+- Matthew Schuerman
 - Brian Pugh (Mayor)
 
 ## Issues
