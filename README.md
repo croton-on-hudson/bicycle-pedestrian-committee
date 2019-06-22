@@ -2,7 +2,9 @@
 We serve as advisors to the village on matters of interest to bicyclists and pedestrians.
 
 ---
-** All material  All material published here is work-in-progress and may not be up-to-date or accurate. **
+## Disclaimer
+**All material published here represents work-in-progress and may not be up-to-date or accurate.**
+Any opinions expressed here represent the individual opinions of specific committee members, not the committee as a whole nor the Village of Croton-on-Hudson.
 ---
 
 ## Project board
