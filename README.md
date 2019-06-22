@@ -1,6 +1,10 @@
 # Village of Croton-on-Hudson Bicycle & Pedestrian Committee
 We serve as advisors to the village on matters of interest to bicyclists and pedestrians.
 
+---
+** All material  All material published here is work-in-progress and may not be up-to-date or accurate. **
+---
+
 ## Project board
 We track the progress of issues and ideas discussed by the committee and the village using a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-style board.
 - View [the current status of the project board](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/1?card_filter_query=is%3Aopen)
@@ -10,21 +14,8 @@ Research and strategies for improving safety for bicyclists and pedestrians in g
 - View [the research wiki](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/wiki)
 
 ## Meetings
-The committee meets on the third Tuesday of each month.
+The committee generally meets on the third Tuesday of each month.
 - See [the village's events calendar](http://www.crotononhudson-ny.gov/Public_Documents/CrotonHudsonNY_Calendar/?formid=158) for upcoming meeting dates
-
-## Members
-- Eliza McCarthy (Chair)
-- Amos Bloomberg
-- Daniel Castner
-- Joshua Diamond
-- Brett Dion
-- Ariadne Green
-- Robert Olsson
-- Deborah Ramsey
-- Klaus Schreiber
-- Matthew Schuerman
-- Brian Pugh (Mayor)
 
 ## Issues
 All are welcome to bring issues related to bicycle or pedestrian life in the village to our attention for discussion at our meetings.
