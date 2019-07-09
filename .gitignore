@@ -1,0 +1,3 @@
+# ignore survey raw data files
+survey/analysis/*.csv
+
