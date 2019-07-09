@@ -1,3 +1,6 @@
 # ignore survey raw data files
 survey/analysis/*.csv
 
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints
+
