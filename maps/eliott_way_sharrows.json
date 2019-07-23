@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "danger",
+        "name": "Cyclists dismount sign",
+        "position": "on walking path"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89140903949738,
+          41.20340775937399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0096ff",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "name": "removable speed hump",
+        "position": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89133930206299,
+            41.20339565119905
+          ],
+          [
+            -73.89122128486633,
+            41.203452155996224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0096ff",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "name": "removable speed hump",
+        "position": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89301836490631,
+            41.20550243991751
+          ],
+          [
+            -73.89309346675873,
+            41.20542172129285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0096ff",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "position": "",
+        "name": "removable speed hump"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8919723033905,
+            41.20444098204889
+          ],
+          [
+            -73.89185965061188,
+            41.2044934499526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "name": "sharrow in middle of road",
+        "position": "middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89138758182526,
+          41.203799255822744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "name": "sharrow in middle of road",
+        "position": "middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8916826248169,
+          41.204231110013346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "name": "sharrow in middle of road",
+        "position": "middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89221370220184,
+          41.204788076630535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "name": "sharrow in middle of road",
+        "position": "middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8926750421524,
+          41.20520781645595
+        ]
+      }
+    }
+  ]
+}
