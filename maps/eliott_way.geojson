@@ -25,7 +25,7 @@
         "stroke-width": 10,
         "stroke-opacity": 1,
         "name": "removable speed hump",
-        "position": ""
+        "position": "across road"
       },
       "geometry": {
         "type": "LineString",
@@ -48,7 +48,7 @@
         "stroke-width": 10,
         "stroke-opacity": 1,
         "name": "removable speed hump",
-        "position": ""
+        "position": "across road"
       },
       "geometry": {
         "type": "LineString",
@@ -70,7 +70,7 @@
         "stroke": "#0096ff",
         "stroke-width": 10,
         "stroke-opacity": 1,
-        "position": "",
+        "position": "across road",
         "name": "removable speed hump"
       },
       "geometry": {
