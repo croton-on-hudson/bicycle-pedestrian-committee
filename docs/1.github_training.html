@@ -66,7 +66,9 @@ class: center, middle
 ---
 
 ## Concept
-A wiki is a collaborative knowledge base - a set of interrelated documents, written by multiple authors, published online.
+A wiki is a collaborative knowledge base - a set of documents, co-written by multiple authors, published online.
+
+Wikipedia is undoubtedly the world's largest and most popular wiki.  There are other many companies that make wiki software, besides GitHub and Wikipedia/MediaWiki.
 
 ---
 
@@ -89,6 +91,8 @@ A wiki is a great tool for documenting collective knowledge:
 - **accessibility** - available anywhere, anytime, to anyone
 - **centralized knowledge base** - serves as a central repository of knowledge (unlike myriad easy-to-lose Google Docs and emails)
 
+Imagine if Wikipedia was a set of public Google Docs instead of a wiki.
+
 ---
 
 ## Disadvantages
@@ -107,19 +111,23 @@ class: center, middle
 
 ---
 
+name: markdown-concept
+
 ## Concept
 Wiki documents are written in [Markdown](https://www.markdowntutorial.com/).
 
-Markdown is a simple way to write well-formatted documents, including things like...
+Markdown is a simple, standardized way to write documents, including formatting like...
 - document headings and subheadings
 - bullet-pointed or numbered lists
 - links to other documents
+
+Markdown is easy and very widely used for web publishing of simple documents.
 
 ---
 
 ## Example
 
-The previous slide was quickly written in Markdown:
+The [previous slide](#markdown-concept) (and all other slides here) was **quickly** written in Markdown:
 ```markdown
 ## Concept
 Wiki documents are written in [Markdown](https://www.markdowntutorial.com/).
@@ -140,6 +148,7 @@ This code in Markdown:
 ```
 
 ... becomes:
+
 # Some Kind of Heading
 
 While this code:
@@ -148,6 +157,7 @@ While this code:
 ```
 
 ... becomes:
+
 ## A sub-heading
 
 ---
@@ -160,6 +170,7 @@ It's a **wonderful** evening!
 ```
 
 ... becomes:
+
 It's a **wonderful** evening!
 
 While this code:
@@ -167,6 +178,7 @@ While this code:
 It's a _wonderful_ evening!
 ```
 ... becomes:
+
 It's a _wonderful_ evening!
 
 ---
@@ -181,6 +193,7 @@ This code:
 ```
 
 ... becomes:
+
 - first item
 - second item
 - third item
@@ -197,6 +210,7 @@ This code:
 ```
 
 ... becomes:
+
 1. first item
 2. second item
 3. third item
@@ -246,6 +260,8 @@ class: center, middle
 ## Concept
 Task boards are used to keep track of the status of each task necessary for a project to be completed.
 
+Many companies offer similar task board software to GitHub, including [Trello](https://trello.com/) and [Jira](https://www.atlassian.com/software/jira).
+
 ---
 
 ## Status
@@ -257,25 +273,42 @@ On a simple task board, every task is placed in one of a few columns:
 ---
 
 ## Example
-For example, a [task board for this workshop](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/3):
+For example, here is a simple [task board for this workshop](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/3).  It's very clear what is already done, and what is left to do.
 
 ![task board concept](../images/presentations/github_training/task_board_concept.png)
 
-It's very clear what is done, and what is left to do.
 
 ---
+
+name: label-tasks
 
 ## Tagging tasks
 Each task can be given a custom label.  This makes it easy to find all tasks with a common label.
 
 ![task labels](../images/presentations/github_training/task_board_concept_labels.png)
 
+Note that in order to label tasks, you must first click the "..." icon in the top-right of the task and click "Convert to issue".
+
 ---
 
-## Accountability
-Each task can also be assigned to a particular individual.  This way everyone knows who is supposed to do what and whether they finished it or not.
+## Assigning responsibility
+Each task can be assigned to a particular individual.  This way everyone knows who is supposed to do what and whether they finished it or not.
 
 ![task labels](../images/presentations/github_training/task_board_concept_assignment.png)
+
+---
+
+## Filtering tasks
+It's easy to show only tasks with a particular label, or only tasks assigned to a particular individual.  This becomes especially helpful when there are many tasks on the board.
+
+![filter tasks](../images/presentations/github_training/task_board_concept_filter.png)
+
+---
+
+## Changing status
+When a task's status changes, simply drag-and-drop it to a new column.
+
+![filter tasks](../images/presentations/github_training/task_board_concept_drag.png)
 
 ---
 
@@ -301,7 +334,9 @@ All changes to files are recorded and old versions are automatically archived.
 ## Images and other media
 Images of any type can be easily stored in GitHub.  The same is true of videos and audio files.
 
-This can be useful for documenting known street issues, and inspirational photos of other municipalities.
+This can be useful for documenting known street issues, or for saving inspirational photos of other municipalities.
+
+![Eliot Way sharrows](https://croton-on-hudson.github.io/bicycle-pedestrian-committee/images/presentations/github_training/eliott_way_sharrows.jpg)
 
 ---
 
@@ -310,13 +345,14 @@ GitHub provides special support for a common type of map file called GeoJSON.
 
 For example, the Bicycle Pedestrian Committee recently shared with the village [a GeoJSON map showing suggested placement of speed humps and sharrows along Elliott Way](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/blob/master/maps/eliott_way.geojson).
 
+![Eliot Way map](https://croton-on-hudson.github.io/bicycle-pedestrian-committee/images/presentations/github_training/eliott_way_map.png)
 
 ---
 
 ## Computer Programming Code Files
 GitHub is especially good at storing and archiving files with computer programming code.
 
-You may think this is irrelevant... but not if you write [code to automatically analyze a survey of 561 local residents](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/tree/master/survey)!
+You may think this is irrelevant... but not if you write [lots of code to automatically analyze responses to a survey of 561 local residents](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/tree/master/survey)!
 
 ---
 
