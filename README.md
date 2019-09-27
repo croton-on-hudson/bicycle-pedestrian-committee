@@ -21,7 +21,10 @@ The committee generally meets on the third Tuesday of each month.
 - See [the village's events calendar](http://www.crotononhudson-ny.gov/Public_Documents/CrotonHudsonNY_Calendar/?formid=158) for upcoming meeting dates
 
 ## Issues
-All are welcome to bring issues related to bicycle or pedestrian life in the village to our attention for discussion at our meetings.
+All are welcome to bring issues related to bicycle or pedestrian life in the village to our attention for discussion at our meetings.  
+
+## Contact us
+[Contact us](https://www.crotononhudson-ny.gov/bicycle-pedestrian-committee) through the village web site.
 
 ---
 
