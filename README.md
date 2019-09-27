@@ -10,6 +10,9 @@ Any opinions expressed here represent the individual opinions of specific commit
 
 ---
 
+## What's here?
+View a slide deck on [how the Croton-on-Hudson Bicycle Pedestrian Committee uses GitHub for project management](https://croton-on-hudson.github.io/bicycle-pedestrian-committee/github-for-project-management/).
+
 ## Project board
 We track the progress of issues and ideas discussed by the committee and the village using a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-style board.
 - View [the current status of the project board](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/1?card_filter_query=is%3Aopen)
