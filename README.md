@@ -3,13 +3,6 @@ We serve as advisors to the village on matters of interest to bicyclists and ped
 
 ---
 
-## Disclaimer
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `All material published here represents work-in-progress and may not be up-to-date or accurate.`
-
-Any opinions expressed here represent the individual opinions of specific committee members, not the committee as a whole nor the Village of Croton-on-Hudson.
-
----
-
 ## What's here?
 View a slide deck on [how the Croton-on-Hudson Bicycle Pedestrian Committee uses GitHub for project management](https://croton-on-hudson.github.io/bicycle-pedestrian-committee/github-for-project-management/).
 
@@ -27,3 +20,11 @@ The committee generally meets on the third Tuesday of each month.
 
 ## Issues
 All are welcome to bring issues related to bicycle or pedestrian life in the village to our attention for discussion at our meetings.
+
+---
+
+## Disclaimer
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `All material published here represents work-in-progress and may not be up-to-date or accurate.`
+
+Any opinions expressed here represent the individual opinions of specific committee members, not the committee as a whole nor the Village of Croton-on-Hudson.
+
