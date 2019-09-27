@@ -4,3 +4,5 @@ survey/analysis/*.csv
 # ignore jupyter notebook checkpoints
 .ipynb_checkpoints
 
+# ignore emacs backup files
+*~
