@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88269186019896, 41.20846070881358],
+          [-73.88000965118408, 41.206329800079416],
+          [-73.87861490249634, 41.20603921623881],
+          [-73.87837886810303, 41.20584549296149]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88273477554321, 41.20844456582647],
+          [-73.88511657714844, 41.20469928516862]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88511657714844, 41.20465892537338],
+          [-73.8824450969696, 41.2027377703269]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88450503349304, 41.20427147007247],
+          [-73.88389348983765, 41.20507059411693],
+          [-73.88302445411682, 41.20473157298689],
+          [-73.88373255729675, 41.20366606657211]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.87840032577513, 41.20581320569285],
+          [-73.88246655464172, 41.20274584252491]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00aa00",
+        "stroke-width": "4px",
+        "title": "Sharrows in center of both lanes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88217687606812, 41.20803291830948],
+          [-73.88261675834656, 41.20745983608125],
+          [-73.88261675834656, 41.20735490498877],
+          [-73.88322830200195, 41.20652352192289]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#55aaff",
+        "stroke-width": "4px",
+        "title": "Bicycles allowed on running track"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8832014799118, 41.20653159365392],
+          [-73.8831102848053, 41.20649527085646],
+          [-73.8836145401001, 41.205998857269975],
+          [-73.88262212276459, 41.205546835118625],
+          [-73.88238072395325, 41.205595266212775],
+          [-73.88193011283875, 41.20611186231992],
+          [-73.88197839260101, 41.20632576420157],
+          [-73.88217687606812, 41.20647105564693],
+          [-73.88277232646941, 41.20672127904657],
+          [-73.8828957080841, 41.20670109977562],
+          [-73.8830941915512, 41.20652352192289]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#55aaff",
+        "stroke-width": "4px",
+        "title": "Ramp up/down to/from High School running track"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88239681720734, 41.20558315844261],
+          [-73.8824075460434, 41.20549033213015],
+          [-73.88264089822769, 41.205405577555965],
+          [-73.88290911912918, 41.205411631457764],
+          [-73.88296812772751, 41.20532082287199]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "Bicycle parking at back of PVC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88299763202667, 41.2053531103836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "Bicycle parking in front of PVC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88320282101631, 41.20438548710494]
+      }
+    }
+  ]
+}
