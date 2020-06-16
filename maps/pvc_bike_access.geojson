@@ -164,6 +164,21 @@
         "type": "Point",
         "coordinates": [-73.88320282101631, 41.20438548710494]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#aa5555",
+        "stroke-width": "10px",
+        "title": "A raised crosswalk with curb extensions."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88439506292343, 41.20611690718368],
+          [-73.88426497578621, 41.20606544955519]
+        ]
+      }
     }
   ]
 }
