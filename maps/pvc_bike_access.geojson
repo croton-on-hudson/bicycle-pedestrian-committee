@@ -202,6 +202,85 @@
           [-73.88316661119461, 41.204503539929256]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8813266158104, 41.206461974941035],
+          [-73.88128906488419, 41.206433723848015],
+          [-73.88123005628586, 41.2064730735814]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88174302875996, 41.20569465074164],
+          [-73.8818684220314, 41.20577234209561]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88279378414154, 41.20417258788341],
+          [-73.88293594121933, 41.20442483807005]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.88280719518661, 41.204178641899304],
+          [-73.88335436582565, 41.204225056002336]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff2600",
+        "stroke-width": 4,
+        "title": "Mixed use trail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8823351264, 41.20509682782165],
+          [-73.88231098651886, 41.20503073904544],
+          [-73.88233579695225, 41.204979785057915],
+          [-73.88232439756393, 41.20495001983891],
+          [-73.88229623436928, 41.20493236249921]
+        ]
+      }
     }
   ]
 }
