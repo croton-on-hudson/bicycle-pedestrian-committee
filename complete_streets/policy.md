@@ -64,13 +64,15 @@
 
    b. The cost of establishing bikeways or walkways would be excessively disproportionate to the need or probably use. In unusual circumstances, such as where natural features (e.g. steep hillsides, shorelines) make it very costly or impossible to accommodate all modes, "excessively disproportionate" is defined as exceeding twenty percent of the cost of the larger transportation project.
 
-   c. Where sparsity of population or other factors suggests an absence of need. For example, all construction or reconstruction of public streets must include sidewalk improvements on both sides, unless the street is a cul-de-sac with few dwellings or the street has severe topographic or natural resource constraints.
+   c. Where Complete Streets design features would have an adverse impact on public safety.
 
-   d. Transit accommodations are not rqeuired where there is no existing or planned transit service.
+   d. Where sparsity of population or other factors suggests an absence of need. For example, all construction or reconstruction of public streets must include sidewalk improvements on both sides, unless the street is a cul-de-sac with few dwellings or the street has severe topographic or natural resource constraints.
 
-   e. Routine maintenance of the transportation network that does not change the roadway geometry, such as mowing, sweeping, spot repair, concrete joint repair, pothole filling, or when interim measures are implemented on temporary detour or haul routes.
+   e. Transit accommodations are not rqeuired where there is no existing or planned transit service.
 
-   f. Where a reasonable and equivalent project along the same corridor is already programmed to provide facilities exempted from the project at hand.
+   f. Routine maintenance of the transportation network that does not change the roadway geometry, such as mowing, sweeping, spot repair, concrete joint repair, pothole filling, or when interim measures are implemented on temporary detour or haul routes.
+
+   g. Where a reasonable and equivalent project along the same corridor is already programmed to provide facilities exempted from the project at hand.
 
 # Exhibit B
 
