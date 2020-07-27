@@ -16,11 +16,11 @@
 
 **WHEREAS**, over 40 other municipalities in New York State, 27 other States (as well as Puerto Rico and the District of Columbia) and at least 495 regional and local jurisdictions now have Complete Streets policies; and
 
-**WHEREAS**, Complete Streets enhance safe walking and bicycling options for school-age children, in recognition of the objectives of the National Safe Routes to School Program and the Centers for Disease Control and Prevention's Physical Activity Guidelines; and
+**WHEREAS**, Complete Streets enhance safe walking and bicycling options for school-age children, in recognition of the objectives of the [National Safe Routes to School Program](https://www.transportation.gov/mission/health/Safe-Routes-to-School-Programs) and the [Centers for Disease Control and Prevention's Physical Activity Guidelines](https://www.cdc.gov/physicalactivity/); and
 
 **WHEREAS**, Complete Streets are supported by the Institute of Traffic Engineers, American Planning Association, American Association of Retired Persons, American Heart Association, and many other transportation, planning, and public health professionals and organizations; and
 
-**WHEREAS**, the implementation of Complete Streets will help the Village of Croton-on-Hudson continue its goal of becoming a Climate Smart Community under the New York State Department of Environmental Conservation program of that name; and
+**WHEREAS**, the implementation of Complete Streets will help the Village of Croton-on-Hudson continue its goal of becoming a [Climate Smart Community](https://climatesmart.ny.gov/) under the New York State Department of Environmental Conservation program of that name; and
 
 **WHEREAS**, the Federal Department of Transportation encourages States, local governments, professional associations, community organizations, public transportation agencies, and other government agencies, to adopt policy statements expressing their commitment to accommodating bicyclists and pedestrians as an integral element of the transportation system [Ref: [United States Department of Transportation Policy Statement on Bicycle and Pedestrian Accommodation](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/guidance/policy_accom.cfm), May 11, 2010]; and
 
@@ -81,10 +81,12 @@ Design Features for Complete Streets
 | Design Feature                                                 | Y/N | Explanation |
 | -------------------------------------------------------------- | --- | ----------- |
 | Sidewalk with ADA-compliant curb ramps                         |
+| Reduced curb radius at intersection                            |
+| Narrow entrance to driveway                                    |
 | Signalized crosswalk                                           |
 | Marked crosswalk with signage                                  |
 | Pedestrian detectors                                           |
-| Audible signals                                                |
+| Audible crossing signals                                       |
 | Multi-use path physically separated from motor vehicle traffic |
 | No turn during red signs                                       |
 | Safe and accessible public transportation stops                |
@@ -100,6 +102,7 @@ Design Features for Complete Streets
 | Bicycle signage                                                |
 | Secure bicycle parking                                         |
 | Multi-use path physically separated from motor vehicle traffic |
+| Paved road shoulder                                            |
 | Other                                                          |
 
 ## Traffic Calming Elements
@@ -108,8 +111,12 @@ Design Features for Complete Streets
 | ---------------------------------------------------------------- | --- | ----------- |
 | Landscaping, including street trees                              |
 | Narrower traffic lanes                                           |
+| Road diet / lane reduction                                       |
 | On-street car parking                                            |
+| Curb extensions                                                  |
 | Speed bumps                                                      |
+| Speed tables                                                     |
+| Speed cushions                                                   |
 | Reduced speed limit                                              |
 | Visual street markings, such as different pavement type or color |
 | Other                                                            |
