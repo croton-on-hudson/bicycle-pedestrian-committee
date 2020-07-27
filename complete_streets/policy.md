@@ -121,6 +121,18 @@ Design Features for Complete Streets
 | Visual street markings, such as different pavement type or color |
 | Other                                                            |
 
+## Public Transit Facilities
+
+| Design Feature                            | Y/N | Explanation |
+| :---------------------------------------- | :-- | :---------- |
+| Sidewalk connectivity to transit station  |
+| Crosswalk connectivity to transit station |
+| Bicycle parking near transit station      |
+| Street furniture near transit station     |
+| Bus pull out                              |
+
+| Other
+
 ## Sustainability Features
 
 | Design Feature                             | Y/N | Explanation |
