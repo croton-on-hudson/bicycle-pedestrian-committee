@@ -14,7 +14,7 @@
 
 **WHEREAS**, local focus on Complete Streets is compatible with New York State's Complete Streets Act ([Chapter 398, Laws of New York](http://open.nysenate.gov/legislation/bill/s5411a-2011)), signed into law on August 15, 2011, which requires that Complete Streets Design Features be considered for the planning, design, construction, and reconstruction of roadways receiving federal and state funding; and
 
-**WHEREAS**, over 40 other municipalities in New York State, 27 other States (as well as Puerto Rico and the District of Columbia) and at least 495 regional and local jurisdictions now have Complete Streets policies; and
+**WHEREAS**, over 40 other municipalities in New York State (including the Town of Cortlandt), 15 New York counties (including Westchester County), 27 other States (as well as Puerto Rico and the District of Columbia) and at least 495 regional and local jurisdictions have implemented Complete Streets policies; and
 
 **WHEREAS**, Complete Streets enhance safe walking and bicycling options for school-age children, in recognition of the objectives of the [National Safe Routes to School Program](https://www.transportation.gov/mission/health/Safe-Routes-to-School-Programs) and the [Centers for Disease Control and Prevention's Physical Activity Guidelines](https://www.cdc.gov/physicalactivity/); and
 
