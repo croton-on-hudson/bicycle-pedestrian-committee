@@ -79,7 +79,7 @@ Design Features for Complete Streets
 ## Pedestrian Facilities
 
 | Design Feature                                                 | Y/N | Explanation |
-| -------------------------------------------------------------- | --- | ----------- |
+| :------------------------------------------------------------- | :-- | :---------- |
 | Sidewalk with ADA-compliant curb ramps                         |
 | Reduced curb radius at intersection                            |
 | Narrow entrance to driveway                                    |
@@ -96,7 +96,7 @@ Design Features for Complete Streets
 ## Bicycle Facilities
 
 | Design Feature                                                 | Y/N | Explanation |
-| -------------------------------------------------------------- | --- | ----------- |
+| :------------------------------------------------------------- | :-- | :---------- |
 | Bike lanes and routes                                          |
 | Shared lane markings / sharrows                                |
 | Bicycle signage                                                |
@@ -108,7 +108,7 @@ Design Features for Complete Streets
 ## Traffic Calming Elements
 
 | Design Feature                                                   | Y/N | Explanation |
-| ---------------------------------------------------------------- | --- | ----------- |
+| :--------------------------------------------------------------- | :-- | :---------- |
 | Landscaping, including street trees                              |
 | Narrower traffic lanes                                           |
 | Road diet / lane reduction                                       |
@@ -124,7 +124,7 @@ Design Features for Complete Streets
 ## Sustainability Features
 
 | Design Feature                             | Y/N | Explanation |
-| ------------------------------------------ | --- | ----------- |
+| :----------------------------------------- | :-- | :---------- |
 | Permeable pavement                         |
 | Porous pavers                              |
 | Bioswales                                  |
