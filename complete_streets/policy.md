@@ -10,7 +10,7 @@
 
 **WHEREAS**, many studies show that when roads are better designed for bicycling, walking, and public transit use, more people do so; and
 
-**WHEREAS**, Complete Streets design features recognize that the needs of users vary according to context and they may include, but are not limited to, well-maintained and connected sidewalks, paved shoulders suitable for cycling, lane striping, bike lanes, share-the-road signage, well-maintained and clearly marked crosswalks, curb extensions, road diets, pedestrian control signalization, bus pull outs, curb cuts, raised crosswalks and ramps, traffic calming measures, street trees, landscaping, and street furniture; and
+**WHEREAS**, Complete Streets design features recognize that the needs of users vary according to context and they may include, but are not limited to, well-maintained and connected sidewalks, paved shoulders suitable for cycling, lane striping, bike lanes, share-the-road signage, well-maintained and clearly marked crosswalks, curb extensions, road diets, pedestrian control signalization, bus pull outs, curb ramps, raised crosswalks, traffic calming measures, street trees, landscaping, and street furniture; and
 
 **WHEREAS**, local focus on Complete Streets is compatible with New York State's Complete Streets Act ([Chapter 398, Laws of New York](http://open.nysenate.gov/legislation/bill/s5411a-2011)), signed into law on August 15, 2011, which requires that Complete Streets Design Features be considered for the planning, design, construction, and reconstruction of roadways receiving federal and state funding; and
 
