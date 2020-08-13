@@ -2,7 +2,7 @@
 
 **WHEREAS**, streets are the main arteries of a community, moving people, goods, and services from one place to another; and
 
-**WHEREAS**, "Complete Streets" are those streets that incorporate safe and conveneint access and mobility for all current and projected users of all ages, including pedestrians, bicyclists, scooters and skateboarders, persons with disabilities, motorists, movers of commercial goods, users and operators of public transportation, emergency vehicles, children, seniors, and families; and
+**WHEREAS**, "Complete Streets" are those streets that incorporate safe and convenient access and mobility for all current and projected users of all ages, including pedestrians, bicyclists, scooters and skateboarders, persons with disabilities, motorists, movers of commercial goods, users and operators of public transportation, emergency vehicles, children, seniors, and families; and
 
 **WHEREAS**, the Village of Croton-on-Hudson acknowledges that streets that support and invite multiple uses contribute to a higher quality of life, a healthier local economy, a more sustainable environmental impact, and a more vibrant public life than streets designed primarily to move automobiles and trucks with little thought or effort put into other users; and
 
@@ -132,8 +132,7 @@ Design Features for Complete Streets
 | Bicycle parking near transit station      |
 | Street furniture near transit station     |
 | Bus pull out                              |
-
-| Other
+| Other                                     |
 
 ## Sustainability Features
 
