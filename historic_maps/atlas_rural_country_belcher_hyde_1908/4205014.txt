@@ -1,0 +1,31 @@
+Attributed Author	Hyde, E. Belcher
+Date	1908
+Short Title	12 Atlas rural country district north of New York City.
+Publisher	E. Belcher Hyde
+Publisher Location	Brooklyn
+Type	Atlas Map
+Obj Height cm	59
+Obj Width cm	85
+Scale 1	18,000
+Note	Colored lithographed map. Shows settlements, towns, subdivisions, railroads, rural landowners, etc. Covers towns of Cortlandt, Yorktown, New Castle and Ossining, and settlements of Crugers, Oscawana, Croton on Hudson, Harmon, Quakerbridge, Mount Airy, Crotonville, Stormytown, Brookside, Claremont, Millwood, Tompkins Corners, Teatown, Grants Corners, Kithchawan, Croton Lake and Hunterville. Includes inset.
+State/Province	New York
+County	Westchester County (N.Y.)
+Full Title	Double Page 12. (Atlas of the rural country district north of New York City embracing the entire Westchester County, New York, also a portion of Connecticut ... Published by E. Belcher Hyde, 1908)
+List No	4205.014
+Page No	12
+Series No	19
+Publication Author	Hyde, E. Belcher
+Pub Date	1908
+Pub Title	Atlas of the rural country district north of New York City embracing the entire Westchester County, New York, also a portion of Connecticut. Greenwich, Stamford, New Canaan, Darien, Wilton and Ridgefield. Compiled from maps on file and surveyors notes and data, maps from actual surveys furnished by individual owners & final field observations by our own Corps of Engineers. Published by E. Belcher Hyde, No. 5 Beekman Street, Manhattan, and No. 97 Liberty Street, Brooklyn. 1908. Entered ... 1908 by E. Belcher Hyde.
+Pub Reference	P1477; U.S. Atlases L2508.
+Pub Note	See note field above.
+Pub List No	4205.000
+Pub Type	County Atlas
+Pub Maps	19
+Pub Height cm	64
+Pub Width cm	48
+Image No	4205014
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0114/4205014.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Hyde, E. Belcher
+Collection	Rumsey Collection

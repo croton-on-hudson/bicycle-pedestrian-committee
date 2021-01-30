@@ -1,0 +1,31 @@
+Attributed Author	G.W. Bromley & Co.
+Date	1914
+Short Title	204-205 Harmon.
+Publisher	G.W. Bromley & Co.
+Publisher Location	New York
+Type	Atlas Map
+Obj Height cm	21
+Obj Width cm	29
+Scale 1	5,400
+Note	Two hand colored maps on facing pages. Maps in this atlas show buildings (by construction material and function), water mains, hydrants, sewers, trolley lines, lot numbers and dimensions, house numbers, block numbers, owners of large parcels, etc. Includes Spring Lake, Harmon Station and Paradise Island.
+State/Province	New York
+City	Harmon (N.Y.)
+Full Title	Harmon. (G.W. Bromley & Co., 34 Pine Street, New York, 1914)
+List No	4255.104
+Page No	204-05
+Series No	113
+Publication Author	G.W. Bromley & Co.
+Pub Date	1914
+Pub Title	Atlas of Westchester County, N.Y. Pocket, desk and automobile edition. Volume II. Yonkers, Greenburg, Mt. Pleasant, Ossining, Cortlandt, New Castle, North Castle, Yorktown, Somers, Bedford, Poundridge, Lewisboro, and North Salem. 1914. G.W. Bromley & Co., 34 Pine Street, New York. Copyright 1914.
+Pub Reference	P4934.
+Pub Note	See note field above.
+Pub List No	4255.000
+Pub Type	County Atlas
+Pub Maps	295
+Pub Height cm	22
+Pub Width cm	16
+Image No	4255104
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0114/4255104.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	G.W. Bromley & Co.
+Collection	Rumsey Collection

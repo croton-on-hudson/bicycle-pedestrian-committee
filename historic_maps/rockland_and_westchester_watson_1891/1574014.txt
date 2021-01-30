@@ -1,0 +1,36 @@
+Author	Beers, F. W. (Frederick W.)
+Author	Watson & Co. (New York, N.Y.)
+Date	1891
+Short Title	9 Rockland, Westchester counties.
+Publisher	Watson & Co.
+Publisher Location	New York
+Type	Atlas Map
+Obj Height cm	39
+Obj Width cm	64
+Scale 1	14,400
+Note	Hand colored lithographed map. Relief shown by hachures; depths by soundings. Shows settlements, major buildings, landowners, wharves, railroads, cemeteries, etc. Includes West Haverstraw, Haverstraw, Croton Point, town of Cortland, etc. "Section 9."
+State/Province	New York
+County	Rockland County (N.Y.)
+County	Westchester County (N.Y.)
+City	Haverstraw (N.Y.)
+Region	Hudson River Valley (N.Y. and N.J.)
+Full Title	Portion of Rockland County. Portion of Westchester County. Copyrighted, 1891, by Watson & Co.
+List No	1574.014
+Page No	9
+Series No	16
+Attributed Publication Author	Watson, Gaylord
+Publication Author	Beers, F. W. (Frederick W.)
+Pub Date	1891
+Pub Title	Atlas of the Hudson River Valley from New York City to Troy, including a section of about 8 miles in width. Published by Watson & Co., 278 Pearl Street and 36 Vesey Street, New York. Compiled from official records and careful surveys, under the supervision of F.W. Beers, C.E., 1891. Copyright 1891, by Watson & Co.
+Pub Reference	Phillips, 2201; LeGear. Atlases of the United States, 2679; Phillips. Maps of America, p. 325
+Pub Note	See note field above.
+Pub List No	1574.000
+Pub Type	County Atlas
+Pub Maps	41
+Pub Height cm	54
+Pub Width cm	43
+Image No	1574014
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0112/1574014.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Beers, F. W. (Frederick W.); Watson & Co. (New York, N.Y.)
+Collection	Rumsey Collection
