@@ -1,4 +1,4 @@
-The Slow Down Croton (SDC) brand is the exclusive intellectual property of [Tom Smith](tomsmithdesign.com), with the following restrictions:
+The Slow Down Croton (SDC) brand is the exclusive intellectual property of [Tom Smith](https://tomsmithdesign.com/), with the following restrictions:
 
 - any use of the SDC brand for events, programs, or merchandise requires his permission
 
