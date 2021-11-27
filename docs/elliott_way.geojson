@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "cross",
+        "title": "Cyclists dismount sign or stencil",
+        "description": "a painted stencil on the walking path indicating that cyclists must dismount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89140903949738,
+          41.20340775937399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#942193",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "name": "removable speed hump",
+        "position": "across road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89132857322694,
+            41.2034017052868
+          ],
+          [
+            -73.89123201370238,
+            41.20344206585746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#942193",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "name": "removable speed hump",
+        "position": "across road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89302909374237,
+            41.20549436805951
+          ],
+          [
+            -73.89310151338577,
+            41.20543382909289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#942193",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "position": "across road",
+        "name": "removable speed hump"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89195889234543,
+            41.204447036039944
+          ],
+          [
+            -73.89187037944794,
+            41.2044934499526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing north",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89135807752609,
+          41.20355709334724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing south",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89177113771439,
+          41.20432192011133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing south",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89114081859589,
+          41.20324228078937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing south",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89387130737303,
+          41.20605334187199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#009051",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing south",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89288425445555,
+          41.20537934397503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing north",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89200448989868,
+          41.204574169722335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing north",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89317393302917,
+          41.20554481715561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0096ff",
+        "marker-size": "large",
+        "marker-symbol": "bicycle",
+        "title": "sharrow facing north",
+        "description": "a painted shared road icon in the middle of each lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89410465955734,
+          41.20627935158854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#942193",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "title": "removable road hump",
+        "description": "across the road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89402151107788,
+            41.206184508320405
+          ],
+          [
+            -73.89396786689758,
+            41.206216795405844
+          ]
+        ]
+      }
+    }
+  ]
+}
