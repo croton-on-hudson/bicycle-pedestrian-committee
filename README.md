@@ -1,7 +1,7 @@
 # Bicycle & Pedestrian Committee
 Village of Croton-on-Hudson
 
-We serve as volunteer advisors to the village on matters of interest to bicyclists and pedestrians.
+We serve as volunteer advisors to the mayor and village board on matters of interest to bicyclists and pedestrians.
 
 ---
 
@@ -9,8 +9,8 @@ We serve as volunteer advisors to the village on matters of interest to bicyclis
 View a slide deck on [how the Croton-on-Hudson Bicycle Pedestrian Committee uses GitHub for project management](https://croton-on-hudson.github.io/bicycle-pedestrian-committee/github-for-project-management/).
 
 ## Project board
-We track the progress of issues and ideas discussed by the committee and the village using a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-style board.
-- View [the current status of the project board](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/1?card_filter_query=is%3Aopen)
+We track the progress of issues and ideas discussed by the committee and the village using [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-style boards.
+- View [the current status of the project boards](https://github.com/croton-on-hudson/bicycle-pedestrian-committee/projects/)
 
 ## Research
 Research and strategies for improving safety for bicyclists and pedestrians in general, not necessarily specifically related to our village, are collaboratively developed into a wiki.
@@ -29,7 +29,7 @@ All are welcome to bring issues related to bicycle or pedestrian life in the vil
 ---
 
 ## Disclaimer
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `All material published here represents work-in-progress and may not be up-to-date or accurate.`
+All material published here represents work-in-progress and may not be up-to-date or accurate.
 
 Any opinions expressed here represent the individual opinions of specific committee members, not the committee as a whole nor the Village of Croton-on-Hudson.
 
