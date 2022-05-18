@@ -3,7 +3,7 @@
 - [Morningside Dr side of 1 Lexington Dr](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#61760131da07875ed264d66c) - long stretch of uneven dangerous crumbling sidewalk. Lexington Dr side in similar condition.
 - [Truesdale Dr side of 2 Morningside Dr](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#617373afd2c22732375a827d) - uneven broken dangerous crumbling sidewalk. Morningside Dr side of property has removed sidewalk entirely.
 - [12 Arlington Dr](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#6173707cd2c22732375a826d) - uneven dangerous crumbling sidewalk
-- [150 Cleveland Dr](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#62841c963034495bb5fb4053) - asphalt driveway covering sidewalk at ridiculously dangerous angle
+- [110 Cleveland Dr](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#62841c963034495bb5fb4053) - asphalt driveway covering sidewalk at ridiculously dangerous angle
 - [6 Park Ave](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#6175aa48b98bc55a045fbd2c): 18" root upheave
 - [16 Truesdale Dr](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#61736defd2c22732375a8265): 12" upheave + crumbling and missing sidewalk
 - [46 Hastings Ave](https://wikistreets.io/map/a61fdd62-8881-427a-b2fd-755bbe963445#61709103a4cdf653a32bb3a8): 7" root upheave
