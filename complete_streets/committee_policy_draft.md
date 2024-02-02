@@ -1,3 +1,5 @@
+_The following draft Complete Streets policy was submitted to the village Board of Trustees in July 2020. On April 24, 2023, the trustees voted in [their own version](./village_complete_streets_policy_final.pdf.pdf), which lacks most of the specificity and accountability present in this draft._
+
 # COMPLETE STREETS POLICY RESOLUTION
 
 **WHEREAS**, streets are the main arteries of a community, moving people, goods, and services from one place to another; and
